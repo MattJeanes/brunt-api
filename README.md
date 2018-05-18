@@ -2,6 +2,10 @@
 
 An unofficial api for Brunt (Blind Engine, etc)
 
+## Install
+
+`yarn add brunt-api` or `npm install brunt-api`
+
 ## Usage
 
 This is an example class you can use to open/close your Brunt Blind Engine devices by name
