@@ -13,7 +13,10 @@
     "email": "mattjeanes23@gmail.com",
     "url": "https://github.com/MattJeanes"
   },
-  "homepage": "https://github.com/MattJeanes/brunt-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattJeanes/brunt-api.git"
+  },
   "main": "dist/bruntapi",
   "typings": "dist/bruntapi",
   "files": [
