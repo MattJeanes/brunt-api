@@ -1,0 +1,28 @@
+{
+  "name": "brunt-api",
+  "version": "0.1.1",
+  "license": "MIT",
+  "description": "Unofficial Brunt API",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint -p .",
+    "lint_fix": "tslint -p . --fix"
+  },
+  "author": {
+    "name": "Matt Jeanes",
+    "email": "mattjeanes23@gmail.com",
+    "url": "https://github.com/MattJeanes"
+  },
+  "homepage": "https://github.com/MattJeanes/brunt-api",
+  "main": "dist/bruntapi",
+  "typings": "dist/bruntapi",
+  "dependencies": {
+    "cookie": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/cookie": "^0.3.1",
+    "@types/node": "^10.1.1",
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  }
+}

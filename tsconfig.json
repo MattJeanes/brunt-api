@@ -1,0 +1,20 @@
+﻿{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "alwaysStrict": true,
+    "outDir": "./dist",
+    "declaration": true
+  },
+  "compileOnSave": true
+}
