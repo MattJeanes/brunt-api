@@ -1,6 +1,6 @@
 {
   "name": "brunt-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "description": "Unofficial Brunt API",
   "scripts": {
@@ -16,6 +16,10 @@
   "homepage": "https://github.com/MattJeanes/brunt-api",
   "main": "dist/bruntapi",
   "typings": "dist/bruntapi",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts"
+  ],
   "dependencies": {
     "cookie": "^0.3.1"
   },
