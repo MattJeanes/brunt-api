@@ -8,6 +8,8 @@
         "**/*.js": true,
         "**/*.js.map": true,
         "yarn-error.log": true,
-        "node_modules": true
+        "node_modules": true,
+        "*.tgz": true,
+        "dist": true
     }
 }
