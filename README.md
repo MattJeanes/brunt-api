@@ -1,3 +1,5 @@
+# DEPRECATED: I no longer use the Brunt Blind Engine, recommend using the [Home Assistant integration](https://www.home-assistant.io/integrations/brunt/) instead
+
 # brunt-api
 
 An unofficial api for Brunt (Blind Engine, etc)
